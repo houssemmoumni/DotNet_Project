@@ -1,0 +1,11 @@
+D:\dotnet\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+D:\dotnet\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+D:\dotnet\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+D:\dotnet\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
